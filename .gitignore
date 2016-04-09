@@ -5,3 +5,4 @@ dist
 .ruby-version
 *.rbc
 *~
+.DS_Store
